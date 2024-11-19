@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m an  **Angular, .NET, JAVA** Develloper
+- 🌱 I’m an  **Angular, Spring boot , JAVA, .Net** Develloper
 
 
 
